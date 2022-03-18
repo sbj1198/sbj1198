@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Setu Bhaskar Jha</h1>
-<h3 align="center">An Engineer & a Full Stack Web Developer</h3>
+<h3 align="center">An Engineer & a MERN stack developer</h3>
 
 - 🌱 I’m currently learning **MERN Stack**
 
