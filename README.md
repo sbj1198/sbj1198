@@ -9,7 +9,6 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
 <a href="https://dev.to/sbj1198" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="sbj1198" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/9600505" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="9600505" height="30" width="40" /></a>
 <a href="https://codeforces.com/profile/octopus_knight" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="octopus_knight" height="30" width="40" /></a>
