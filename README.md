@@ -3,13 +3,18 @@
 
 - 🌱 I’m currently learning **MERN Stack**
 
+- 👨‍💻 All of my projects are available at [https://sbj.netlify.app](https://sbj.netlify.app)
+
 - 📫 How to reach me **sbhaskar1998@gmail.com**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1l2cymp8lc-8HZ20ucg7NChsAb3pe40RX/view?usp=sharing](https://drive.google.com/file/d/1l2cymp8lc-8HZ20ucg7NChsAb3pe40RX/view?usp=sharing)
 
+- ⚡ Fun fact **Things are not always #000000 and #FFFFFF**
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://dev.to/sbj1198" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="sbj1198" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/setubhaskarjha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="setubhaskarjha" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/9600505" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="9600505" height="30" width="40" /></a>
 <a href="https://codeforces.com/profile/octopus_knight" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="octopus_knight" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/sbhaskar1998" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="sbhaskar1998" height="30" width="40" /></a>
