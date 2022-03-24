@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Setu Bhaskar Jha</h1>
-<h3 align="center">An Engineer & a Full Stack Web Developer</h3>
+<h3 align="center">Engineer | Programmer | Full Stack Web Developer (MERN Stack)</h3>
 
-- 🌱 I’m currently learning **MERN Stack**
+- 🌱 I’m currently learning **Data Structure & Algorithms**
 
 - 👨‍💻 All of my projects are available at [https://sbj.netlify.app](https://sbj.netlify.app)
 
