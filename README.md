@@ -1,6 +1,7 @@
 <h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">, I'm Setu Bhaskar Jha</h1>
 <h3 align="center">Engineer | Programmer | Full Stack Web Developer (MERN)</h3>
 
+
 ## About me
 
 - 🌱 I’m currently learning **Data Structures & Algorithms**
@@ -121,8 +122,12 @@
 
 ## Github Stats
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sbj1198&show_icons=true&locale=en&layout=compact" alt="sbj1198" /></p>
+[![](https://visitcount.itsvg.in/api?id=sbj1198&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sbj1198&show_icons=true&locale=en" alt="sbj1198" /></p>
+![](https://github-profile-trophy.vercel.app/?username=sbj1198&theme=monokai&no-frame=false&no-bg=true&margin-w=4)
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sbj1198&" alt="sbj1198" /></p>
+<span><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sbj1198&show_icons=true&locale=en&layout=compact" alt="sbj1198" /></span>
+
+<span>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sbj1198&show_icons=true&locale=en" alt="sbj1198" /></span>
+
+<span><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sbj1198&" alt="sbj1198" /></span>
