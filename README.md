@@ -10,7 +10,7 @@
 
 - 📫 How to reach me **sbhaskar1998@gmail.com**
 
-- 📄 Know about my experiences [MY RESUME](https://drive.google.com/file/d/1j3fafFlxfwWDhvdNbUZhGXQHo3uDHaXq/view?usp=share_link)
+- 📄 Know about my experiences <a href="https://drive.google.com/file/d/1j3fafFlxfwWDhvdNbUZhGXQHo3uDHaXq/view?usp=share_link" target="_blank">Resume</a>
 
 - ⚡ Fun fact **Things are not always #000000 and #FFFFFF**
 
