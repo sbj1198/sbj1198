@@ -19,9 +19,9 @@
 ## Connect with me:
 
 <p align="left">
-<a href="https://dev.to/sbj1198" target="blank"><img align="center" src="https://img.shields.io/badge/dev.to-0A0A0A?style=plastic&logo=devdotto&logoColor=white" alt="sbj1198"/></a>
-<a href="https://linkedin.com/in/setubhaskarjha" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=plastic&logo=linkedin&logoColor=white" alt="setubhaskarjha"/></a>
 <a href="https://stackoverflow.com/users/9600505" target="blank"><img align="center" src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=plastic&logo=stack-overflow&logoColor=white" alt="9600505" /></a>
+<a href="https://linkedin.com/in/setubhaskarjha" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=plastic&logo=linkedin&logoColor=white" alt="setubhaskarjha"/></a>
+<a href="https://dev.to/sbj1198" target="blank"><img align="center" src="https://img.shields.io/badge/dev.to-0A0A0A?style=plastic&logo=devdotto&logoColor=white" alt="sbj1198"/></a>
 </p>
 
 <br>
