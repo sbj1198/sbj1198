@@ -4,7 +4,7 @@
 
 ## About me
 
-- 🌱 I’m currently learning **Data Structures & Algorithms**
+- 🌱 I’m currently learning **C# & ASP.NET MVC5**
 
 - 👨‍💻 All of my projects are available at [https://sbj1198.github.io](https://sbj1198.github.io)
 
